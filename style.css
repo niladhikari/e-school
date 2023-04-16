@@ -65,8 +65,10 @@
     font-size: 40px;
     line-height: 70px;
 }
-.text-line h2 span{
+.text-line h2 .design{
     color: #21B573;
+    font-size: 48px;
+line-height: 70px;
 }
 .text-line p{
     font-family: 'Poppins';
@@ -98,6 +100,7 @@
 .cat1,.cat3,.cat4{
     background: #F8FFFB;
     border-radius: 10px;
+
 }
 .cat2{
     background: #FFFFFF;
@@ -117,7 +120,7 @@
 }
 .item-set{
     margin-bottom: 98px;
-    padding: 10px;
+    
 }
 
 
@@ -180,7 +183,9 @@
     margin-bottom: 81px;
 }
 
-
+.testimonial{
+    margin-bottom: 106px;
+}
 
 .testimonial h1{ text-align: center;
     font-family: 'Poppins';
@@ -199,18 +204,69 @@
     font-size: 16px;
     line-height: 30px;
     color: #000000;
-    margin-top: 30px;
+    
 }
 .text{
     width: 580px;
     height: 90px;
+    margin-top: 30px;
+
 }
 .testimonial img{
     width: 170px;
     height: 170px;
-    margin-left: 50%;
-    margin-top: 0%;
-    margin-bottom: 127px;
+    margin-left: 55%;
+    
 }
 
+.blog{
+    width: 370;
+    background: #282531;
+    
+}
+.discription p{
+    width: 364px;
+    height: 60px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #FFFFFF;
+    margin-top: 20px;
+}
+.Coursis{
+    margin-top:20px;
+    width: 145px;
+    height: 220px;
+    margin-left: 90px;
+    border: none;
+}
+.Coursis h6{
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+span{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 30px;
+    color: #FFFFFF; 
+}
+footer{
+    text-align: center;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #CDCDCD;
+    margin-top:40px;
+  }
 
